@@ -1,5 +1,5 @@
 # Tetris-clone
-a clone of tetris made in C and using ncurses 
+a clone of tetris made in C using ncurses library. runs in linxu terminal using simply ASCII graphics 
 
 ---------CONTROLS---------
 - use left, right, and down arrow keys to move block.

@@ -1,2 +1,2 @@
 # Tetris-clone
-a clone of tetris made in c and using ncurses 
+a clone of tetris made in C and using ncurses 

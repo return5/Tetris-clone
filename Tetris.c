@@ -3,12 +3,6 @@
 #include <stdlib.h>	//malloc
 #include <assert.h> //assert()
 
-
-/* 
-	- added gameOver
-	- added dropPiece
-*/
-
 /*=========================== typedefs ======================================*/
 
 typedef struct BLOCK {

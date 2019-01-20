@@ -9,4 +9,4 @@ a clone of tetris made in C and using ncurses
 
 
 ---------COMPILING-----
-needs -lncurses flag when using gcc to compile
+- needs -lncurses flag when using gcc to compile

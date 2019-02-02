@@ -9,5 +9,6 @@ a clone of tetris made in C using ncurses library. runs in linxu terminal using 
 
 
 ---------COMPILING-----
+
 uses ncurses library.
 - needs -lncurses flag when using gcc to compile

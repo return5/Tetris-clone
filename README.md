@@ -12,5 +12,6 @@ a clone of tetris made in C using ncurses library. runs in linxu terminal using 
 
 uses ncurses library.
 use 'compiletetris.sh' 
+
 ![screenshot1](/Screenshot_1.png)
 ![screenshot1](/Screenshot_2.png)

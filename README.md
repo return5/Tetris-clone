@@ -11,4 +11,6 @@ a clone of tetris made in C using ncurses library. runs in linxu terminal using 
 ---------COMPILING-----
 
 uses ncurses library.
-- needs -lncurses flag when using gcc to compile
+use 'compiletetris.sh' 
+![screenshot1](/screenshots/Screenshot_1.png)
+![screenshot1](/screenshots/Screenshot_2.png)
